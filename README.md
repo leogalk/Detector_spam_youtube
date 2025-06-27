@@ -1,4 +1,4 @@
-# Detector_spam_youtube
+# Detector spam youtube
 Classificação binária de comentários no youtube como spam ou "ham" com algoritmos supervisionados.
 
 
